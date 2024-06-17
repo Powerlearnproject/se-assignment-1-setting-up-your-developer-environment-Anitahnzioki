@@ -32,9 +32,52 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+Download VS Code
+ run the installer (usually VSCodeSetup.exe).
+You may see a prompt asking if you want to allow the app to make changes to your device; click "Yes" to proceed.
+Accept the License Agreement:
+Follow the prompts in the installer. You'll likely need to accept the license agreement and choose the destination folder where VS Code will be installed.
+Select Additional Tasks (Optional):
+During the installation, you may be asked to select additional tasks, such as adding VS Code to the PATH or creating desktop shortcuts. Adjust these settings according to your preferences.
+Install:
+Click on the "Next" button and then "Install" to begin the installation process.
 
 9. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. Download Python and installation Python 3.10.0
+Select the installer that is 64-bit
+Once the installer is downloaded, double-click on it to start the installation process.
+You may see a dialog asking if you want to allow the app to make changes to your device; click "Yes" to proceed.
+Customize Installation (Optional):
+The installer will present you with installation options. Unless you have specific reasons, it's generally safe to leave the default options checked.
+You might want to check the box that says "Add Python to PATH" to make Python accessible from the command line.
+Install Python:
+
+Click on the "Install Now" button to start the installation.
+The installer will now install Python on your system.
+Verify Installation:
+Once the installation wa complete i verified it by opening git bash then typed python --version and pressed Enter then the version was shown.
+Creation of a github repository.
+Signed in Github since i had already downloaded it
+Once logged in, you'll land on your GitHub dashboard.
+Click on the "+" (plus) sign in the top right corner of the page. A dropdown menu will appear.
+Select "New repository":
+From the dropdown menu, select "New repository". This will take you to a new page where you can set up your repository.
+Fill out the Repository details:
+On the new repository page, you’ll need to fill out the following details:
+Repository name: Choose a name for your repository. This should be descriptive and related to your project.
+Description (optional): Add a brief description of your repository to help others understand its purpose.
+Visibility: Choose whether you want the repository to be public (visible to everyone) or private (visible only to you and collaborators you invite).
+Initialize this repository with a README: If you want to initialize your repository with a README file (which is often a good idea to provide basic information about your project), check this box.
+Add .gitignore: Optionally, you can choose a .gitignore template that matches the type of project you’re working on. This helps exclude certain files and directories from being tracked by Git.
+Add a license: You can choose to add a license file to your repository to specify how others can use your code.
+Create the repository:
+
+After filling out the details, click the "Create repository" button. GitHub will now create your new repository with the settings you’ve specified.
+
+download and installation of MySQL
+
+
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
